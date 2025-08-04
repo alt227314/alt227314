@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.makeagif.com/media/bxTCt1.gif" alt="Intro GIF" />
+  <img src="https://i.makeagif.com/media/3-07-2016/bxTCt1.gif" alt="Golden Boy - I love computers!" />
 </p>
 
 # 👋 Olá! Eu sou o Johnny
